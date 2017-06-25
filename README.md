@@ -2,6 +2,10 @@
 
 Have you ever wondered how to build a basic website? HTML is where you start.
 
+## Motivation
+
+The idea for this project came to me when one of my daughters and another daughter's boyfriend wanted to learn some basic development while in High School. I thought it was an awesome idea to start teaching them some basics, but our schedules were hectic. So I decided to centrallize the documentation here on GitHub for them. And now anyone else can share in the knowledge.
+
 ## What You'll Need
 
 One of the great things about learning basic web development is that you don't need anything fancy to get started.
