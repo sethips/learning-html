@@ -1,1 +1,1 @@
-## Structuring HTML
+## Lesson 1: Structuring HTML
