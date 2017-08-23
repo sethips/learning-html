@@ -30,7 +30,7 @@ And here is an image element, which only has one tag. This is considered a self-
 
 ### Root Element
 
-Before you can write any HTML elements in your html document, however, you have to let the browser know to expect HTML. You accomplish this with an opening and closing `<html>` tag. The `<html>` element is the top-level element that all other HTML markup is contained in. It is referred to as the "root element" for this reason.
+Before you can write any HTML elements in your html document, however, you have to let the browser know to expect HTML. You accomplish this with an opening and closing `<html>` tag. The `html` element is the top-level element that all other HTML markup is contained in. It is referred to as the "root element" for this reason.
 
 ### Body Element
 
@@ -40,8 +40,8 @@ Here is a basic example of the root and body elements of a web page.
 
 ```html
 <html>
-	<body>
-		<!-- content will go here -->
-	</body>
+  <body>
+    <!-- content will go here -->
+  </body>
 </html>
 ```
