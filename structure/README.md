@@ -16,7 +16,7 @@ HTML is made up of elements that represent the content that is contained within 
 
 > Most elements follow a pattern of opening tag, content, closing tag.
 
-Here is a paragraph element. You can tell the difference between a closing tag and an opening tag by the forward slash `/` preceding the element name.
+Here is a paragraph element. You can tell the difference between a closing tag and an opening tag by the forward slash `/` preceding the element name in the closing tag.
 
 ```html
 <p>HTML is awesome!</p>
