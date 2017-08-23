@@ -27,4 +27,4 @@ HTML stands for HyperText Markup Language. It is the basic building block that m
 
 Markup refers to the special elements that HTML uses to make up different parts of the webpage. The markup helps us to structure webpages in a consistent and readable manner.
 
-Let's get started with [Lesson 1: Structuring HTML](structure/)
+Let's get started with [Lesson 1: Structuring HTML](structure/).
